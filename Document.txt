@@ -2,11 +2,11 @@ public class ConEx {
     public static void main(String args[]) {
         int a=20;
         int b=20;
-     //   int c=6;
+        int c=6;
         if(a>b){
             System.out.println(+a+ "is bigger then"  +b);
         }
-        else if(b>a) {
+        else if(b>c) {
             System.out.println(+b+ "is bigger then"  +a);
         }
         else{
