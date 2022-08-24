@@ -9,8 +9,12 @@ public class ConEx {
         else if(b>c) {
             System.out.println(+b+ "is bigger then"  +a);
         }
+	else if(a>c) {
+            System.out.println(+a+ "is bigger then"  +a);
+	}
         else{
             System.out.println(+a+ "is equals to"  +b);
+
         }
     }
 }
