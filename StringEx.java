@@ -7,6 +7,8 @@ public class StringEx{
 		System.out.println(str.indexOf("i"));
 		System.out.println(str.charAt(4));
 		
+		
+		
 
 }
 
